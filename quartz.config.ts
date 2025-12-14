@@ -29,25 +29,25 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#f5f2e9",       // <--- The Cream/Beige Background
+	  lightgray: "#e0dcd3",   // Borders (slightly darker beige)
+      	  gray: "#8b8580",        // Metadata details (muted earth tone)
+      	  darkgray: "#3c3836",    // Body text (Warm dark charcoal)
+      	  dark: "#2a3c24",        // Headings (Deep Forest Green)
+          secondary: "#4a6741",   // Links (Fern Green)
+      	  tertiary: "#7a8f60",    // Hover color (Lighter Moss Green)
+      	  highlight: "rgba(74, 103, 65, 0.15)", // Highlight background (Subtle green tint)
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#1a1d1a",       // Very dark green/black background
+     	  lightgray: "#2c302c",
+     	  gray: "#647864",
+     	  darkgray: "#d4d4d4",    // Light gray text
+     	  dark: "#ebebec",        // White headings
+     	  secondary: "#7ba370",   // Soft green links
+     	  tertiary: "#84a59d",
+     	  highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
       },
