@@ -1,5 +1,5 @@
 --- 
-title: The Real Secret to Trust 
+title: The Illusion of Progress
 date: 2025-12-14 
 tags: [psychology, business, "working with teams"]
 
