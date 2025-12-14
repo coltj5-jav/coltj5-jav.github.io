@@ -1,3 +1,10 @@
+--- 
+title: The Real Secret to Trust 
+date: 2025-12-14 
+tags: [psychology, business, working with teams]
+
+---
+
 Observing the reasons why you (or your teammates) jump into "solution mode", BEFORE stamping the problem statement highlights many of the motivations that exist underneath the surface.
 
 Those who avoid the **clarifying the problem statement** typically do not care for solving for an actual sustainable outcome.
