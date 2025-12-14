@@ -1,7 +1,7 @@
 --- 
 title: The Real Secret to Trust 
 date: 2025-12-14 
-tags: [psychology, business, working with teams]
+tags: [psychology, business, "working with teams"]
 
 ---
 
@@ -15,4 +15,6 @@ Hoping that the outcomes they seek will absolve the missing piece within.
 
 Deeper underlying inner work is necessary to be able to exist within the chaos, while devising a solution towards order.
 
+
+---
 Ref: [[Defining the Problem]]
