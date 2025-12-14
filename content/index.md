@@ -1,3 +1,9 @@
+
+---
+title: Index
+
+---
+
 Welcome to my site.
 
 Here you'll find a collection of my thoughts, things I'm currently studying, and what I'm working on.
