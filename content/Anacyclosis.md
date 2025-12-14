@@ -1,2 +1,0 @@
-https://anacyclosis.org/portfolio/what-is-anacyclosis/
-- The word _anacyclosis_ has been variously translated as “the cycle of political revolution” and “the cycle of the constitutions.” In short, the theory states that the six regime archetypes that the Greeks identified and which we still use today (monarchy, tyranny, aristocracy, oligarchy, democracy, and _ochlocracy_ or mob-rule) each represent different stages of one long process of political evolution.
