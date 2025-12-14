@@ -1,12 +1,12 @@
 **_“What is the definitive answer to the question that people ask you most often?”_**
 
-I was never certain how to answer this question. Especially when it came from my family.
-
 ## **All You Can Eat Buffet**
 
 Searching for happiness is a likely candidate for the most common hobby amongst Americans today. With the rise in social media comparison, constant distraction, and viable numbing agents – it’s not difficult to find yourself acknowledging your blessings, but then wondering if there’s still more to expect. 
 
-It’s declared for us in our Constitution – Life, Liberty, and the pursuit of happiness. It’s roots run deep within our cultural blood. The feeling lingers in our consciousness, as we wonder, “Am I truly happy?”
+It’s declared for us in our Constitution. *Life, Liberty, and the pursuit of happiness.* 
+
+It’s roots run deep within our cultural blood. The feeling lingers in our consciousness, as we wonder, *“Am I truly happy?”*
 
 Nearly everyone I meet has some sort of opinion about it. Some say they have it; Some say they never thought it was achievable; others can’t seem to find it.
 
@@ -14,15 +14,12 @@ For most of my life, I was never certain what the heck I was supposed to be look
 
 I found myself jumping from one thing, to the next, and then the next. Each time hoping that the _next_ thing I could pursue was going to be “it” on the other side.
 
-When I was eight, I was convinced it was a new dirtbike. 
+- Age 8: I was convinced it was a new dirt bike. 
+- Age 12: I had convinced my Dad that it was an Xbox.
+- Age 14: It was definitely when I got a girlfriend.
+- Age 18: It was when I could finally leave high school and go to college. 
 
-At twelve, I had convinced my Dad that it was an Xbox.
-
-At fourteen, it was definitely when I got a girlfriend.
-
-When I was eighteen, it was when I could finally leave high school and go to college. 
-
-At college, it shifted to when I got my first ‘adult’ job. 
+By the time college rolled around, it shifted to when I got my first ‘adult’ job. 
 
 At each stage, I was looking ahead to the next objective. I’d push, push, push myself (and undoubtedly, others as well) to achieve the “next thing.” 
 
