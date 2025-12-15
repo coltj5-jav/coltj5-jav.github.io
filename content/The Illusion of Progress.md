@@ -2,9 +2,8 @@
 
 
 ---
-
 ---
-title: "The Illusion of Progress"
+title: The Illusion of Progress
 description: ""
 date: 2025-12-14
 tags: psychology, business, working with teams
