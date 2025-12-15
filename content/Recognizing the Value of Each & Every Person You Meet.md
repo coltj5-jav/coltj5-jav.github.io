@@ -1,8 +1,14 @@
 
 ---
-title: Recognizing the Value of Each & Every Person You Meet
+title: "Recognizing the Value of Each & Every Person You Meet"
+description: ""
 date: 2025-12-15
+tags: []
+permalink: ""
 draft: true
+enableToc: true
+comments: false
+socialImage: ""
 
 ---
 

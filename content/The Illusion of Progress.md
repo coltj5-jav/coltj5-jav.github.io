@@ -1,7 +1,18 @@
---- 
-title: The Illusion of Progress
-date: 2025-12-14 
+---
+
+
+---
+
+---
+title: "The Illusion of Progress"
+description: ""
+date: 2025-12-14
 tags: [psychology, business, "working with teams"]
+permalink: ""
+draft: false
+enableToc: true
+comments: true
+socialImage: ""
 
 ---
 
