@@ -1,6 +1,6 @@
 
 ---
-title: Social Contract
+title: "Social Contract"
 description: ""
 date: 2025-12-15
 tags: []
