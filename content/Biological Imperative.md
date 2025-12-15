@@ -1,6 +1,6 @@
 
 ---
-title: "Biological Imperative"
+title: Biological Imperative
 description: ""
 date: 2025-12-15
 tags: []
