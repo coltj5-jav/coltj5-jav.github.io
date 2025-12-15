@@ -1,7 +1,7 @@
 
 
 ---
-title: "{{title}}"
+title: "The world is a very malleable place."
 description: ""
 date: 2025-12-15
 tags: []
