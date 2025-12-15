@@ -1,7 +1,3 @@
----
-
-
----
 --- 
 title: The Illusion of Progress 
 description: "" 
