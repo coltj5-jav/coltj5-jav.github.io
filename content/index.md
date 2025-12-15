@@ -14,4 +14,3 @@ If you'd like to get ahold of me --> email colt.feltes@pm.me.
 ---
 ## What I'm Currently Pondering
 - [[The Speed of a Day]]
-- 
