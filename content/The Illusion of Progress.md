@@ -12,7 +12,6 @@ permalink: ""
 draft: false
 enableToc: true
 comments: true
-socialImage: ""
 
 ---
 
