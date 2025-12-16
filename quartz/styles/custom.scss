@@ -2,23 +2,34 @@
 
 // put your custom CSS here!
 
-/* Make header container use available width */
-.page-header, header {
-  width: 100%;
+/* ---- Header search: make it actually take space ---- */
+
+/* Quartz wraps each Flex child in a .flex-component */
+header .flex-component:has(.search) {
+  flex-grow: 1 !important;
+  flex-shrink: 1 !important;
+  flex-basis: 32rem !important; /* pick your preferred default width */
+  min-width: 18rem !important;
 }
 
-/* Let Search expand */
-.search {
-  width: 100% !important;
+/* Remove any caps on the search wrapper itself */
+header .search {
   max-width: none !important;
-  flex: 1 1 auto !important;
-  min-width: 28rem;
+  width: 100% !important;
 }
 
-/* The clickable “search bar” */
-.search #search-icon,
-.search .search-button,
-.search input {
+/* THE IMPORTANT PART: target the real button */
+header .search .search-button,
+header .search #search-button {
   width: 100% !important;
   max-width: none !important;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* Make the "Search" text take the available space so it looks like a real bar */
+header .search .search-button p {
+  flex: 1;
+  text-align: left;
 }
