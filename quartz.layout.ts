@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [
   Component.Flex({
     components: [
-      { Component: Component.PageTitle(), basis: "14rem", shrink: false },
-      { Component: Component.Search(), grow: true, basis: "36rem", shrink: true },
+      { Component: Component.PageTitle(), basis: "10rem", shrink: false },
+      { Component: Component.Search(), grow: true, basis: "48rem", shrink: true },
       { Component: Component.Darkmode() },
       { Component: Component.ReaderMode() },
     ],
@@ -48,8 +48,6 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.PageTitle(),
-    // Component.Explorer(),
   ],
   right: [],
 }
