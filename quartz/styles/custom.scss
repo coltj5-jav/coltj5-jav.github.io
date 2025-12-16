@@ -2,20 +2,25 @@
 
 // put your custom CSS here!
 
-/* quartz/styles/custom.scss */
-
-/* Let the search bar actually stretch */
-.search {
-  max-width: none !important;   /* removes Quartz's 14rem cap */
-  flex-grow: 1 !important;      /* take available header space */
-  min-width: 24rem;             /* optional: prevents it from getting too tiny */
+/* Make the header search actually stretch (Quartz caps it by default) */
+header .search,
+.page-header .search,
+.site-header .search {
+  flex: 1 1 48rem !important;
+  max-width: none !important;
+  min-width: 0 !important;
 }
 
-/* Make the clickable/search UI fill the wrapper */
-.search-button {
+/* The clickable “search bar” in Quartz is #search-icon */
+header .search > #search-icon,
+.page-header .search > #search-icon,
+.site-header .search > #search-icon {
   width: 100%;
 }
 
-#search-bar {
+/* Make inner content fill the bar */
+header .search > #search-icon > div,
+.page-header .search > #search-icon > div,
+.site-header .search > #search-icon > div {
   width: 100%;
 }
