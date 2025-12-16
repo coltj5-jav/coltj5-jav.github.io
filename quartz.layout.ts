@@ -7,14 +7,16 @@ export const sharedPageComponents: SharedLayout = {
   header: [
   Component.Flex({
     components: [
-      { Component: Component.PageTitle() },          // adds “Colt Feltes” to the top bar
-      { Component: Component.Search(), grow: true }, // search stretches
+      { Component: Component.PageTitle(), basis: "14rem", shrink: false },
+      { Component: Component.Search(), grow: true, basis: "36rem", shrink: true },
       { Component: Component.Darkmode() },
       { Component: Component.ReaderMode() },
     ],
+    direction: "row",
+    gap: "1rem",
   }),
 ],
-  afterBody: [],
+  afterBody: [Component.Graph()],
   footer: Component.Footer({
     links: {
       Email: "mailto: colt.feltes@pm.me",
@@ -37,7 +39,6 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
