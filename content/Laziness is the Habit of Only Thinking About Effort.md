@@ -17,4 +17,3 @@ Credit to the Great Scott Adams, creator of the Dilbert Series:
 > *When you're observing me, you say: 'How the hell do you get so much done? How do you do it? I think it's just this.* 
 > 
 > *When I think of all the things I do, I think about them in terms of their **benefits**."*
-
