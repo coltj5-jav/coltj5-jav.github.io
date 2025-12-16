@@ -2,16 +2,20 @@
 
 // put your custom CSS here!
 
-/* Make the header search take more space */
-header .search,
-.page-header .search,
-.site-header .search {
-  flex: 1 1 48rem;
-  max-width: none;
+/* quartz/styles/custom.scss */
+
+/* Let the search bar actually stretch */
+.search {
+  max-width: none !important;   /* removes Quartz's 14rem cap */
+  flex-grow: 1 !important;      /* take available header space */
+  min-width: 24rem;             /* optional: prevents it from getting too tiny */
 }
 
-/* If the clickable "search bar" element isn't expanding */
-header .search input,
-header .search button {
+/* Make the clickable/search UI fill the wrapper */
+.search-button {
+  width: 100%;
+}
+
+#search-bar {
   width: 100%;
 }
