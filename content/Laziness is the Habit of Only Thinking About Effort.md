@@ -1,3 +1,7 @@
+---
+tags:
+  - psychology
+---
 Credit to the Great Scott Adams, creator of the Dilbert Series:
 
 > *"What if laziness is a habit of thinking about the cost of the effort, instead of thinking about the payoff?* 
