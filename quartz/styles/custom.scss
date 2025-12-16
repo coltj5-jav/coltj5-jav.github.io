@@ -1,3 +1,17 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Make the header search take more space */
+header .search,
+.page-header .search,
+.site-header .search {
+  flex: 1 1 32rem;
+  max-width: none;
+}
+
+/* If the clickable "search bar" element isn't expanding */
+header .search input,
+header .search button {
+  width: 100%;
+}

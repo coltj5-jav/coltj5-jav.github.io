@@ -35,7 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    // Component.Explorer(),
   ],
   right: [
     Component.Graph(),
