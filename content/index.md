@@ -19,3 +19,4 @@ If you'd like to get ahold of me --> email colt.feltes@pm.me.
 - [[Syncretism]]
 - [[Discernment - The Only Skill That Matters]]
 - [[Laziness is the Habit of Only Thinking About Effort]]
+- [[Website - Published/quartz/content/Be Cautious Who You Empower|Be Cautious Who You Empower]]
