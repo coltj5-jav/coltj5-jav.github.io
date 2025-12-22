@@ -23,4 +23,6 @@ While that's progress, the anger is misplaced.
 
 Its quite the phenomenon. Tread lightly.
 
-[[Matrix is a System]]
+---
+Ref:
+- [[Matrix is a System]]
