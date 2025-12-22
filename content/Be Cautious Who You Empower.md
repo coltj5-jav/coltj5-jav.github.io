@@ -1,14 +1,10 @@
-
 ---
-title: Be Cautious Who You Empower
-description: ""
-date: 2025-12-22
-tags: [psychology, empowerment, Matrix]
-draft: false
-enableToc: true
-
+Date: 2025-12-22
+tags:
+  - empowerment
+  - psychology
+  - Matrix
 ---
-
 Empowering people can be dangerous. 
 
 Once empowered, they realize the constraints they've been operating under. 
