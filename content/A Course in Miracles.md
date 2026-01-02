@@ -17,7 +17,7 @@ Watching many friends become what I deem as *born-again Christians*, I observed 
 
 Ironically, this is antithetical to the very teachings of the person they worship.
 
-Stumbling across *A Course in Miracles* radically changed my "lens", creating a happier, healthier life & connection with God -- which can be cultivated every single waking moment of the day.
+Stumbling across *A Course in Miracles* radically changed my "lens", creating a happier, healthier life & connection with God -- which can be cultivated every single waking moment of the day *(no religion required).*
 
 I typically cover one principle per day as a review.
 This will be my 2nd time going through the course.

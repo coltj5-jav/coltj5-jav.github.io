@@ -20,3 +20,5 @@ If you'd like to get ahold of me --> email colt.feltes@pm.me.
 - [[Discernment - The Only Skill That Matters]]
 - [[Laziness is the Habit of Only Thinking About Effort]]
 - [[Be Cautious Who You Empower]]
+- [[Dessert for the Soul]]
+- 
