@@ -20,3 +20,6 @@
 #### Food for Thought
 - What happens when I stop assigning meaning to everything around me?
 - What feelings or resistance come up?
+
+
+Next: [[Website - Published/quartz/content/ACIM - P2 - I have given everything all the meaning that it has for me]]

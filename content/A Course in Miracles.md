@@ -25,4 +25,6 @@ This will be my 2nd time going through the course.
 I will add the principles to this page when time permits.
 
 - [[ACIM - P1 - Nothing I see has any meaning]]
-- [[ACIM - P2 - I have given everything all the meaning that it has for me.]]
+- [[ACIM - P2 - I have given everything all the meaning that it has for me]]
+- [[ACIM - P3 - I do not understand anything I see]]
+- [[ACIM - P4 - These thoughts do not mean anything. They are like the things I see.]]

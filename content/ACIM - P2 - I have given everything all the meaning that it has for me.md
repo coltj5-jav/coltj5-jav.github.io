@@ -31,3 +31,6 @@
 - What is something I’ve given a lot of meaning to lately? 
 - How might I be seeing it through my own past or filters? 
 - What would it feel like to let that go, even briefly?
+
+
+Next: [[ACIM - P3 - I do not understand anything I see]]
