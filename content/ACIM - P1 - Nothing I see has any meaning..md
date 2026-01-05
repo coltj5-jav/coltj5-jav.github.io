@@ -31,4 +31,4 @@ Do this for a minute or two, a few times throughout the day.
 - What feelings or resistance come up?
 
 ---
-Next: [[ACIM - P2 - I have given everything all the meaning that it has for me]]
+Next: [[ACIM - P2 - I have given everything all the meaning that it has for me.]]
