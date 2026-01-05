@@ -28,3 +28,4 @@ I will add the principles to this page when time permits.
 - [[ACIM - P2 - I have given everything all the meaning that it has for me]]
 - [[ACIM - P3 - I do not understand anything I see]]
 - [[ACIM - P4 - These thoughts do not mean anything. They are like the things I see.]]
+- [[ACIM - P5 - I am never upset for the reason I think]]
